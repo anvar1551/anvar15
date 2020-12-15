@@ -1,0 +1,31 @@
+.container-fluid{
+    text-align: center;
+}
+.card-text{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.carText{
+    margin: 0 auto;
+   width: 800px;
+   text-align: left;
+   font-size: larger;
+
+}
+.carText h1{
+    text-align: center;
+}
+
+
+.card-text{
+    text-align: center;
+}
+
+.readBt{
+    height: 80px;
+    width: 200px;
+}
+
